@@ -87,3 +87,9 @@ This book is designed to be compiled using **Overleaf** or any LaTeX compiler an
 *   Time series forecasting
     
 *   Hyperparameter optimization
+
+👤 Author
+----------------------
+Bishal Pandey
+MSc Artificial Intelligence, University of Southampton
+LinkedIn: www.linkedin.com/in/bishal-pandey-78080230b
